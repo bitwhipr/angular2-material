@@ -1,5 +1,5 @@
 {
-  "name": "angular-quickstart",
+  "name": "angular-quickstart-material",
   "version": "1.0.0",
   "description": "QuickStart package.json from the documentation, supplemented with testing support",
   "scripts": {
@@ -58,5 +58,5 @@
     "@types/node": "^6.0.46",
     "@types/jasmine": "2.5.36"
   },
-  "repository": {}
+  "repository": {"url": "https://github.com/johnston4hooah/angular2-material.git"}
 }
